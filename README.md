@@ -28,8 +28,8 @@ Learning outcomes:     By the conclusion of this course students should be fa
 Average amount of direct instruction or guided interaction with the instructor and average minimum amount of independent (out-of-class) learning expected per week:
 2.5 hours of direct instruction and a minimum of 5 hours of independent learning, totaling a minimum of 7.5 hours per week.
 
-Required Suggested textbooks: 
-Grimace and Bishop’s pattern recognition
+Suggested textbooks: 
+Grimace and Bishop’s pattern recognition - 
 The Elements of Statistical Learning - available online
 Kevin Murphy - Machine Learning: A Probabilistic Perspective
 Link to some pdfs
@@ -48,113 +48,38 @@ Lecture notes will be posted; but may not be available before class.
 Date
 Lecture Topic
 
-Lecture slides /Assignments
-Jan 16
-Overview (What is machine learning)  
+Lecture/Assignments
+Jan 16 - Overview (What is machine learning), k-nearest neighbors 
 
+Jan 23 - Estimating Probabilities from Data, Decision / Regression Trees, Project 1 out
 
+Jan 31 - Linear Regression, Logistic Regression and The Perceptron         
 
-k-nearest neighbors 
-
-
-Jan 23
-Estimating Probabilities from Data      
-Project 1 out
-
-
-Decision / Regression Trees 
-
-
-Jan 31
-- Linear Regression 
-
-
-
-- Logistic Regression and The Perceptron         
-
-
-Feb 6
-- Linear SVM                   
-                       
-Project 2 out
-
-
-- Empirical Risk Minimization * and math facts.
+Feb 6 - Linear SVM, Project 2 out, Empirical Risk Minimization * and math facts.
 No external libraries for project 2, only basic math libraries for matrix multiplication and such.
 
+Feb 13 - Review, and Midterm in class.
 
-Feb 13
-Review, and Midterm in class.
-
-
-
-Feb 20
-Bias / Variance Tradeoff
-
-
-
-ML Debugging, Over- / Underfitting
+Feb 20 - Bias / Variance Tradeoff, ML Debugging, Over- / Underfitting
 Bishop’s Appendix B: probability distributions
 
+Feb 27 - Kernel Machines
 
-Feb 27
-Kernel Machines I
+Mar 6 - Kernel II, Bagging
 
+Mar 20 - Boosting, Boosting from Schapire
 
+Mar 27 - Midterm
 
-Kernel Machines II
+Apr 3 - Unsupervised: k-means, EM, PCA, Feature Selection
 
+Apr 10 - Bias in machine learning, Unsupervised learning, word embeddings (NLP)
 
-Mar 6
-Kernel III
+Apr 12 Midnight - Proj 4 - Final project proposal due
 
+Apr 17 - Deep Learning
 
-
-Bagging
-
-
-Mar 20
-Boosting   Boosting from Schapire
-
-
-Mar 27
-Midterm Review 
-
-Apr 3
-Unsupervised: k-means, EM
-
-
-
-PCA, Feature Selection
-Project 4 directions
-
-
-Apr 10
-Bias in machine learning 
-Final project template
-
-
-
-Unsupervised learning, word embeddings (NLP)
-
-
-Apr 12 Midnight
-Proj 4 - Final project proposal due
-
-Apr 17 
-
-
-
-
-Deep Learning 1
-
-
-
-Deep Learning 2
-
-
-Apr 24
-Final Project Presentations
+Apr 24 - Final Project Presentations
 
 
 
