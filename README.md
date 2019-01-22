@@ -7,13 +7,19 @@ __________________________________________________________________________
 Course and contact information:
 
 Course: CSCI 6364 Machine Learning
+
 Semester: Spring 2019
+
 Meeting time: Wednesday 6:10-8:40PM
+
 Location: Mon 111
 
 Instructor’s name: David Trott
+
 E-mail: trottdw@gwu.edu
-Office hours: by appointment. 
+
+Office hours: by appointment
+
 Bulletin course description: Machine learning algorithms: nearest-neighbor, regression, classification, perceptron, kernel methods, support vector machine (SVM), logistic regression, ensemble methods, boosting, graphical models, hidden Markov models (HMM), non-parametrics, online learning, active learning, clustering, feature selection, parameter tuning, and cross-validation. Students cannot receive credit for both CSCI 4364 taken while an undergraduate and CSCI 6364 taken while a graduate student. Students in the combined BS/MS program cannot receive credit for both CSCI 4364 and CSCI 6364. 
 
 Course prerequisites: CSCI 6212 and CSCI 6362. (Fall, Every Year).
